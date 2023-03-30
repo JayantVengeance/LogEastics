@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "934797210526",
+    "project_id": "logeasetics",
+    "storage_bucket": "logeasetics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934797210526:android:24d2ab177ae7a21ebe9c8f",
+        "android_client_info": {
+          "package_name": "com.example.logeasetics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934797210526-3bele6jmnholgrcddbsqpirndt9gopl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLczGL2ORXJ7VJn_5pbUcF9LWLCXcCflg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934797210526-3bele6jmnholgrcddbsqpirndt9gopl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
